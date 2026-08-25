@@ -1,0 +1,2 @@
+config SHIELD_AGAR_MINI_ORTHO
+    def_bool $(shields_list_contains,agar_mini_ortho)

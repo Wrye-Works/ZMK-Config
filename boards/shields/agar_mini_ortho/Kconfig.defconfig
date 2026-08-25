@@ -1,0 +1,6 @@
+if SHIELD_AGAR_MINI_ORTHO
+
+config ZMK_KEYBOARD_NAME
+    default "Agar Mini Ortho"
+
+endif # SHIELD_AGAR_MINI_ORTHO
