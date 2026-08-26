@@ -20,4 +20,4 @@
 ---
 include:
   - board: nice_nano//zmk
-  - shield: agar_mini_ortho
+    shield: agar_mini_ortho
