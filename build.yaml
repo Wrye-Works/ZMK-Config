@@ -19,4 +19,5 @@
 #
 ---
 include:
-  - board: agar_mini_ortho
+  - board: nice_nano//zmk
+    shield: agar_mini_ortho
