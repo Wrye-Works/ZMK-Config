@@ -20,7 +20,10 @@
 ---
 include:
   - board:  nice_nano_v2
-    shield: agar_mini_ortho    
+    shield: agar_mini_ortho
+
+  - board: nice_nano_v2
+    shield: agar_mini_ortho
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
-    artifact-name: agar_mini_ortho
+    artifact-name: agar_mini_ortho_with_studio
