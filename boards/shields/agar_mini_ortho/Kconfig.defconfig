@@ -1,5 +1,7 @@
 if SHIELD_AGAR_MINI_ORTHO
 
+CONFIG_ZMK_STUDIO_LOCKING=n
+
 config ZMK_KEYBOARD_NAME
     default "Agar Mini Ortho"
 
