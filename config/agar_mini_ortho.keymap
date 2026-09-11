@@ -19,7 +19,7 @@
                 &kp LALT &kp LGUI &mo 1 &kp SPACE &mo 2 &kp RGUI &kp RALT
             >;
         };
-        
+
         extra1 {
             display-name = "Test Empty";
             status = "reserved";
@@ -27,4 +27,3 @@
 
         };
     };
-};
